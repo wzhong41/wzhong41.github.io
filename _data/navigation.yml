@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: "https://wzhong41.github.io/weizhongstat.github.io/aboutme.html"
+    url: "https://wzhong41.github.io/aboutme.html"
 
   - title: "Publications"
-    url: "https://wzhong41.github.io/weizhongstat.github.io/publications.html"
+    url: "https://wzhong41.github.io/publications.html"
 
   - title: "Projects"
-    url: "https://wzhong41.github.io/weizhongstat.github.io/projects.html"
+    url: "https://wzhong41.github.io/projects.html"
     
   - title: "Honors and Awards"
-    url: "https://wzhong41.github.io/weizhongstat.github.io/honors.html"
+    url: "https://wzhong41.github.io/honors.html"
 
   - title: "Teaching"
-    url: "https://wzhong41.github.io/weizhongstat.github.io/teach.html"
+    url: "https://wzhong41.github.io/teach.html"
